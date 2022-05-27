@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gate</folder>
+	<filename>0046.jpg</filename>
+	<path>/home/nyuad/Desktop/dataset/gate/0046.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>782</xmin>
+			<ymin>679</ymin>
+			<xmax>1133</xmax>
+			<ymax>1157</ymax>
+		</bndbox>
+	</object>
+</annotation>
